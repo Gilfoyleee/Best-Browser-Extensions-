@@ -77,16 +77,16 @@
 
 |Sr No.| Title | addons URL | Available for |Use|
 |------| ----------------- | -------------|------|------|
-|1|Netcraft| [Link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|Firefox/Chrome|
-|2|FoxyProxy Standard | [Link](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)|Firefox/Chrome|
-|3|Wappalyzer | [Link](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|Firefox/Chrome|
-|4|Cookie-Editor | [Link](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)|Firefox/Chrome|
-|5|Hunter | [Link](https://addons.mozilla.org/en-US/firefox/addon/hunterio/)|Firefox/Chrome|
-|6|IP Address and Domain Information| [Link](https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/)|Firefox/Chrome|
-|7|d3coder| [Link](https://chrome.google.com/webstore/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol)|Chrome|
-|8|Cache Killer| [Link](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp)|Chrome|
-|9|OpenPortCheck Tool| [Link](https://chrome.google.com/webstore/detail/open-port-check-tool/lefghalnfhaklfbndadklndcndabkadb)|Chrome|
-|10|Request Maker| [Link](https://chrome.google.com/webstore/detail/request-maker/kajfghlhfkcocafkcjlajldicbikpgnp)|Chrome|
+|1|Netcraft| [Link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|Firefox/Chrome|Find Safety ratings of site.|
+|2|FoxyProxy Standard | [Link](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)|Firefox/Chrome|Setup proxy for BURP Suite.|
+|3|Wappalyzer | [Link](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|Firefox/Chrome|Gives report of Tech Stack used by a website.
+|4|Cookie-Editor | [Link](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)|Firefox/Chrome| Editing Cookies|
+|5|Hunter | [Link](https://addons.mozilla.org/en-US/firefox/addon/hunterio/)|Firefox/Chrome| Find Email addresses of organization|
+|6|IP Address and Domain Information| [Link](https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/)|Firefox/Chrome|Find details realted to IP address.|
+|7|d3coder| [Link](https://chrome.google.com/webstore/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol)|Chrome| Encode and decode keys and hashes.|
+|8|Cache Killer| [Link](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp)|Chrome| Clear Browser Cache and make it faster.|
+|9|OpenPortCheck Tool| [Link](https://chrome.google.com/webstore/detail/open-port-check-tool/lefghalnfhaklfbndadklndcndabkadb)|Chrome|Check Open Ports.|
+|10|Request Maker| [Link](https://chrome.google.com/webstore/detail/request-maker/kajfghlhfkcocafkcjlajldicbikpgnp)|Chrome|Useful when performing fuzzing.|
 |11| ProxySwitchy Omega| [Link1](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)/[Link2](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)|Firefox/Chrome|
 |12|Device Spoofing|[Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived)| Firefox/Chrome | Use to change the user-agent & device type while sending request to webpage. |
 |13|Exifdata|[Link](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer)|Firefox/Chrome|View Exif Metadata of Images.|
