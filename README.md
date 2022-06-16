@@ -39,20 +39,20 @@
 |9|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|  -->
 
-<!--
+
 #### EXTENSIONS FOR PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
-|1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|2|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|3|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|4|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
+|1|Netcraft| [Link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|Firefox/Chrome|
+|2|FoxyProxy Standard | [Link](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)|Firefox/Chrome|
+|3|Wappalyzer | [Link](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|Firefox/Chrome|
+|4|Cookie-Editor | [Link](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)|Firefox/Chrome|
 |5|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |6|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |7|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |8|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |9|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|  -->
+|10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 
 
 #### EXTENSIONS FOR Daily Use
