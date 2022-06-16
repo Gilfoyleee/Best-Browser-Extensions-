@@ -44,7 +44,7 @@
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|  -->
 
 
-#### 3) EXTENSIONS FOR PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
+#### 3) EXTENSIONS FOR SYSADMINS/ PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
 |1|Netcraft| [Link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|Firefox/Chrome|
@@ -61,7 +61,10 @@
 |12|Device Spoofing|[Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived)| Firefox/Chrome | Use to change the user-agent & device type while sending request to webpage. |
 |13|Exifdata|[Link](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer)|Firefox/Chrome|View Exif Metadata of Images.|
 |14|Built-with|[Link](https://addons.mozilla.org/en-US/firefox/addon/builtwith/)|Firefox/Chrome|Gives detailed report of Tech Stack used by a website.|
-
+|15|SSH|[Link](https://addons.mozilla.org/en-US/firefox/addon/sshgate-ssh-client-terminal)|Firefox/Chrome|Gives remote SSH facility & capability in browser.|
+|16|Fake Network Traffic Generator|[Link](https://chrome.google.com/webstore/detail/chaff/jgjhamliocfhehbocekgcddfjpgdjnje)|Chrome|Create fake network traffic for someone who is monitoring you.|
+|17|Nimbus-screenshot|[Link1](https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/) / [Link2](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)| Firefox/Chrome| Take in-depth snapshot of a website.
+|18|Json data viwer|[Link](https://addons.mozilla.org/en-US/firefox/addon/jsonview/)|Firefox/Chrome|View data in json format.|
 
 #### 4) EXTENSIONS FOR Daily Use
 |Sr No.| Title | addons URL | Available for |Use
