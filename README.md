@@ -16,7 +16,7 @@
 
 <br>
 
-#### 1) EXTENSIONS FOR DAILY USE
+#### EXTENSIONS FOR DAILY USE
 <br>
 
 |Sr No.| Title | addons URL | Available for |Use
@@ -34,7 +34,7 @@
 
 <br>
 
-#### 2) EXTENSIONS FOR AD-BLOCKING / TRACKER BLOCKERS / MINING BLOCKERS
+#### EXTENSIONS FOR AD-BLOCKING / TRACKER BLOCKERS / MINING BLOCKERS
 <br>
 
 |Sr No.| Title | addons URL | Available for |
@@ -52,7 +52,8 @@
 
 <br>
 
-#### 3) EXTENSIONS FOR DEVELOPERS
+<!--  
+#### EXTENSIONS FOR DEVELOPERS
 <br>
 
 |Sr No.| Title | addons URL | Available for |
@@ -69,9 +70,9 @@
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 
 <br>
+-->
 
-
-#### 4) EXTENSIONS FOR SYSADMINS/ PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
+#### EXTENSIONS FOR SYSADMINS/ PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
 <br>
 
 |Sr No.| Title | addons URL | Available for |Use|
