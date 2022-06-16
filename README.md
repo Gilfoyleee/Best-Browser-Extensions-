@@ -16,6 +16,7 @@
 
 #### 1) EXTENSIONS FOR DAILY USE
 <br>
+
 |Sr No.| Title | addons URL | Available for |Use
 |------| ----------------- | -------------|------|------|
 |1|Honey| [Link](https://addons.mozilla.org/en-US/firefox/addon/honey/)|Firefox/Chrome|Find Coupon Codes |
@@ -32,6 +33,7 @@
 
 #### 2) EXTENSIONS FOR AD-BLOCKING / TRACKER BLOCKERS / MINING BLOCKERS
 <br>
+
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
 |1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
@@ -48,6 +50,7 @@
 
 #### 3) EXTENSIONS FOR DEVELOPERS
 <br>
+
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
 |1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
@@ -64,6 +67,7 @@
 
 #### 4) EXTENSIONS FOR SYSADMINS/ PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
 <br>
+
 |Sr No.| Title | addons URL | Available for |Use|
 |------| ----------------- | -------------|------|------|
 |1|Netcraft| [Link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|Firefox/Chrome|
