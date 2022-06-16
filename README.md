@@ -1,3 +1,8 @@
+<h1 align="center">
+  <a href="https://github.com/Gilfoyleee/Best-Browser-Extensions-">
+    <img src="https://github.com/Gilfoyleee/Best-Browser-Extensions-/blob/main/Best_Browser_Extensions.png" alt="Logo">
+  </a>
+</h1>
 # Best Browser Extensions
 
 <h1 align="left">
