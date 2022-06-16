@@ -15,6 +15,7 @@
 ### *Bookmark in your browser !*
 
 #### 1) EXTENSIONS FOR AD-BLOCKING / TRACKER BLOCKERS / MINING BLOCKERS
+
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
 |1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
@@ -45,6 +46,7 @@
 
 
 #### 3) EXTENSIONS FOR SYSADMINS/ PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
+
 |Sr No.| Title | addons URL | Available for |Use|
 |------| ----------------- | -------------|------|------|
 |1|Netcraft| [Link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|Firefox/Chrome|
@@ -66,7 +68,8 @@
 |17|Nimbus-screenshot|[Link1](https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/)/[Link2](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)| Firefox/Chrome| Take in-depth snapshot of a website.
 |18|Json data viwer|[Link](https://addons.mozilla.org/en-US/firefox/addon/jsonview/)|Firefox/Chrome|View data in json format.|
 
-#### 4) EXTENSIONS FOR Daily Use
+#### 4) EXTENSIONS FOR DAILY USE
+
 |Sr No.| Title | addons URL | Available for |Use
 |------| ----------------- | -------------|------|------|
 |1|Honey| [Link](https://addons.mozilla.org/en-US/firefox/addon/honey/)|Firefox/Chrome|Find Coupon Codes |
