@@ -21,10 +21,10 @@
 |6|Ghostery| [Link](https://addons.mozilla.org/en-US/firefox/addon/ghostery/)|Firefox/Chrome|
 |7|PopUp Blocker (Strict) | [Link](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/)|Firefox/Chrome|
 |8|Decentraleyes| [Link](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)|Firefox/Chrome|
-|9|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
+|9|Leechblock-NG| [Link](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)|Firefox/Chrome|
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 
-<!-- 
+<!--
 #### EXTENSIONS FOR DEVELOPERS
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
@@ -54,6 +54,7 @@
 |9|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|  -->
 
+
 #### EXTENSIONS FOR Daily Use
 |Sr No.| Title | addons URL | Available for |Use
 |------| ----------------- | -------------|------|------|
@@ -63,8 +64,8 @@
 |4|LastPass Password Manager | [Link](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
 |5|Bitwarden | [Link](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
 |6|Sponsor Block | [Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|Firefox/Chrome|Skip Youtube Sponsor ads |
-|7|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|8|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
+|7|Read Aloud| [Link](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/)|text-to-speech extension that helps you to convert webpage text to audio.|
+|8|Easy Youtube Video Downloader| [Link](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)|Firefox/Chrome|
 |9|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 
