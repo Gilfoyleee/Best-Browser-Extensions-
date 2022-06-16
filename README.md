@@ -63,7 +63,7 @@
 |14|Built-with|[Link](https://addons.mozilla.org/en-US/firefox/addon/builtwith/)|Firefox/Chrome|Gives detailed report of Tech Stack used by a website.|
 |15|SSH|[Link](https://addons.mozilla.org/en-US/firefox/addon/sshgate-ssh-client-terminal)|Firefox/Chrome|Gives remote SSH facility & capability in browser.|
 |16|Fake Network Traffic Generator|[Link](https://chrome.google.com/webstore/detail/chaff/jgjhamliocfhehbocekgcddfjpgdjnje)|Chrome|Create fake network traffic for someone who is monitoring you.|
-|17|Nimbus-screenshot|[Link1](https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/) / [Link2](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)| Firefox/Chrome| Take in-depth snapshot of a website.
+|17|Nimbus-screenshot|[Link1](https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/)/[Link2](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)| Firefox/Chrome| Take in-depth snapshot of a website.
 |18|Json data viwer|[Link](https://addons.mozilla.org/en-US/firefox/addon/jsonview/)|Firefox/Chrome|View data in json format.|
 
 #### 4) EXTENSIONS FOR Daily Use
