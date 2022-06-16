@@ -1,4 +1,4 @@
-# Best-Browser-Extensions
+# Best Browser Extensions
 
 <h1 align="left">
   <a href="https://github.com/Gilfoyleee/Best-Repo-for-Web-Developers">
@@ -12,7 +12,7 @@
 
 |Sr No.| Title | Repository |
 |------| ----------------- | ------------------------------------------------------------------|
-|1|Ublock Origin | Link[https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/]|
+|1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|
 |2|30 Seconds Of Code|  https://github.com/30-seconds/30-seconds-of-code |
 |3|Awesome Cheatsheets|  https://github.com/LeCoupa/awesome-cheatsheets |
 |4|CSS Protips|  https://github.com/AllThingsSmitty/css-protips |
