@@ -59,7 +59,7 @@
 |2|Grammarly | [Link](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)|Firefox/Chrome|Check grammer and eleminate writing errors|
 |3|Dark Reader | [Link](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)|Firefox|Enables Dark Reading Mode in Browser|
 |4|LastPass Password Manager | [Link](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
-|5|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
+|5|Bitwarden | [Link](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
 |6|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |7|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |8|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
