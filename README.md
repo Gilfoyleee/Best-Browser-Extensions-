@@ -14,7 +14,23 @@
 
 ### *Bookmark in your browser !*
 
-#### 1) EXTENSIONS FOR AD-BLOCKING / TRACKER BLOCKERS / MINING BLOCKERS
+#### 1) EXTENSIONS FOR DAILY USE
+
+|Sr No.| Title | addons URL | Available for |Use
+|------| ----------------- | -------------|------|------|
+|1|Honey| [Link](https://addons.mozilla.org/en-US/firefox/addon/honey/)|Firefox/Chrome|Find Coupon Codes |
+|2|Grammarly | [Link](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)|Firefox/Chrome|Check grammar and eliminate writing errors|
+|3|Dark Reader | [Link](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)|Firefox|Enables Dark Reading Mode in Browser|
+|4|LastPass Password Manager | [Link](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
+|5|Bitwarden | [Link](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
+|6|Sponsor Block | [Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|Firefox/Chrome|Skip Youtube Sponsor ads |
+|7|Read Aloud| [Link](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/)|Firefox/Chrome|text-to-speech extension that helps you to convert webpage text to audio.|
+|8|Easy Youtube Video Downloader|[Link](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)|Firefox/Chrome|Download Youtube Videos and Audio|
+|9|OneTab | [Link](https://addons.mozilla.org/en-US/firefox/addon/onetab/)|Firefox/Chrome|Convert Tabs to list and save memory|
+|10|Print Friendly & PDF| [Link](https://addons.mozilla.org/en-US/firefox/addon/print-friendly-pdf/)|Firefox/Chrome|Create print friendly pdf of webpages.|
+
+
+#### 2) EXTENSIONS FOR AD-BLOCKING / TRACKER BLOCKERS / MINING BLOCKERS
 
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
@@ -29,8 +45,9 @@
 |9|Leechblock-NG| [Link](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)|Firefox/Chrome|
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 
-<!--
-#### 2) EXTENSIONS FOR DEVELOPERS
+
+#### 3) EXTENSIONS FOR DEVELOPERS
+
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
 |1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
@@ -42,10 +59,10 @@
 |7|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |8|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |9|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|  -->
+|10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|  
 
 
-#### 3) EXTENSIONS FOR SYSADMINS/ PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
+#### 4) EXTENSIONS FOR SYSADMINS/ PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
 
 |Sr No.| Title | addons URL | Available for |Use|
 |------| ----------------- | -------------|------|------|
@@ -68,20 +85,7 @@
 |17|Nimbus-screenshot|[Link1](https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/)/[Link2](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)| Firefox/Chrome| Take in-depth snapshot of a website.
 |18|Json data viwer|[Link](https://addons.mozilla.org/en-US/firefox/addon/jsonview/)|Firefox/Chrome|View data in json format.|
 
-#### 4) EXTENSIONS FOR DAILY USE
 
-|Sr No.| Title | addons URL | Available for |Use
-|------| ----------------- | -------------|------|------|
-|1|Honey| [Link](https://addons.mozilla.org/en-US/firefox/addon/honey/)|Firefox/Chrome|Find Coupon Codes |
-|2|Grammarly | [Link](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)|Firefox/Chrome|Check grammar and eliminate writing errors|
-|3|Dark Reader | [Link](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)|Firefox|Enables Dark Reading Mode in Browser|
-|4|LastPass Password Manager | [Link](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
-|5|Bitwarden | [Link](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
-|6|Sponsor Block | [Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|Firefox/Chrome|Skip Youtube Sponsor ads |
-|7|Read Aloud| [Link](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/)|Firefox/Chrome|text-to-speech extension that helps you to convert webpage text to audio.|
-|8|Easy Youtube Video Downloader|[Link](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)|Firefox/Chrome|Download Youtube Videos and Audio|
-|9|OneTab | [Link](https://addons.mozilla.org/en-US/firefox/addon/onetab/)|Firefox/Chrome|Convert Tabs to list and save memory|
-|10|Print Friendly & PDF| [Link](https://addons.mozilla.org/en-US/firefox/addon/print-friendly-pdf/)|Firefox/Chrome|Create print friendly pdf of webpages.|
 
 
 ## Credits
