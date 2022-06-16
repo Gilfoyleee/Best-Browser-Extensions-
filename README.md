@@ -57,7 +57,7 @@
 |8|Cache Killer| [Link](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp)|Chrome|
 |9|OpenPortCheck Tool| [Link](https://chrome.google.com/webstore/detail/open-port-check-tool/lefghalnfhaklfbndadklndcndabkadb)|Chrome|
 |10|Request Maker| [Link](https://chrome.google.com/webstore/detail/request-maker/kajfghlhfkcocafkcjlajldicbikpgnp)|Chrome|
-|11| ProxySwitchy Omega| [Link1](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) / [Link2](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)|Firefox/ Chrome|
+|11| ProxySwitchy Omega| [Link1](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)/[Link2](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)|Firefox/Chrome|
 |12|Device Spoofing|[Link](https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived)| Firefox/Chrome | Use to change the user-agent & device type while sending request to webpage. |
 |13|Exifdata|[Link](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer)|Firefox/Chrome|View Exif Metadata of Images.|
 |14|Built-with|[Link](https://addons.mozilla.org/en-US/firefox/addon/builtwith/)|Firefox/Chrome|Gives detailed report of Tech Stack used by a website.|
