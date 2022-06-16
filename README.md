@@ -47,12 +47,13 @@
 |2|FoxyProxy Standard | [Link](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)|Firefox/Chrome|
 |3|Wappalyzer | [Link](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|Firefox/Chrome|
 |4|Cookie-Editor | [Link](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)|Firefox/Chrome|
-|5|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|6|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|7|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|8|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|9|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
+|5|Hunter | [Link](https://addons.mozilla.org/en-US/firefox/addon/hunterio/)|Firefox/Chrome|
+|6|IP Address and Domain Information| [Link](https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/)|Firefox/Chrome|
+|7|d3coder| [Link](https://chrome.google.com/webstore/detail/d3coder/gncnbkghencmkfgeepfaonmegemakcol)|Chrome|
+|8|Cache Killer| [Link](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp)|Chrome|
+|9|OpenPortCheck Tool| [Link](https://chrome.google.com/webstore/detail/open-port-check-tool/lefghalnfhaklfbndadklndcndabkadb)|Chrome|
+|10|Request Maker| [Link](https://chrome.google.com/webstore/detail/request-maker/kajfghlhfkcocafkcjlajldicbikpgnp)|Chrome|
+|11| ProxySwitchy Omega| [Link1](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) [Link2](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)|Firefox/ Chrome|
 
 
 #### EXTENSIONS FOR Daily Use
