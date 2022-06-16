@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h1 align="left">
+<h1 align="center">
   <a href="https://github.com/Gilfoyleee/Best-Repo-for-Web-Developers">
     <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Markdown">
       <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Markdown">
