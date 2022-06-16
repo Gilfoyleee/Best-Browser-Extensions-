@@ -45,8 +45,8 @@
 
 
 #### 3) EXTENSIONS FOR SYSADMINS/ PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
-|Sr No.| Title | addons URL | Available for |
-|------| ----------------- | -------------|------|
+|Sr No.| Title | addons URL | Available for |Use|
+|------| ----------------- | -------------|------|------|
 |1|Netcraft| [Link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|Firefox/Chrome|
 |2|FoxyProxy Standard | [Link](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)|Firefox/Chrome|
 |3|Wappalyzer | [Link](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)|Firefox/Chrome|
