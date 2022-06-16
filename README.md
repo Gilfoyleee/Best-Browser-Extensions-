@@ -65,8 +65,8 @@
 |4|LastPass Password Manager | [Link](https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
 |5|Bitwarden | [Link](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)|Firefox/Chrome|Use to securely store your username, passwords or credit card details and fill automatically when using online|
 |6|Sponsor Block | [Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|Firefox/Chrome|Skip Youtube Sponsor ads |
-|7|Read Aloud| [Link](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/)|text-to-speech extension that helps you to convert webpage text to audio.|
-|8|Easy Youtube Video Downloader| [Link](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)|Firefox/Chrome|
+|7|Read Aloud| [Link](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/)|Firefox/Chrome|text-to-speech extension that helps you to convert webpage text to audio.|
+|8|Easy Youtube Video Downloader|[Link](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)|Firefox/Chrome|Download Youtube Videos and Audio|
 |9|OneTab | [Link](https://addons.mozilla.org/en-US/firefox/addon/onetab/)|Firefox/Chrome|Convert Tabs to list and save memory|
 |10|Print Friendly & PDF| [Link](https://addons.mozilla.org/en-US/firefox/addon/print-friendly-pdf/)|Firefox/Chrome|Create print friendly pdf of webpages.|
 
