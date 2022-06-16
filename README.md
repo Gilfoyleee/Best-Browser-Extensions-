@@ -53,7 +53,7 @@
 |8|Cache Killer| [Link](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp)|Chrome|
 |9|OpenPortCheck Tool| [Link](https://chrome.google.com/webstore/detail/open-port-check-tool/lefghalnfhaklfbndadklndcndabkadb)|Chrome|
 |10|Request Maker| [Link](https://chrome.google.com/webstore/detail/request-maker/kajfghlhfkcocafkcjlajldicbikpgnp)|Chrome|
-|11| ProxySwitchy Omega| [Link1](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) [Link2](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)|Firefox/ Chrome|
+|11| ProxySwitchy Omega| [Link1](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) / [Link2](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)|Firefox/ Chrome|
 
 
 #### EXTENSIONS FOR Daily Use
@@ -67,8 +67,8 @@
 |6|Sponsor Block | [Link](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|Firefox/Chrome|Skip Youtube Sponsor ads |
 |7|Read Aloud| [Link](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/)|text-to-speech extension that helps you to convert webpage text to audio.|
 |8|Easy Youtube Video Downloader| [Link](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)|Firefox/Chrome|
-|9|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
+|9|OneTab | [Link](https://addons.mozilla.org/en-US/firefox/addon/onetab/)|Firefox/Chrome|Convert Tabs to list and save memory|
+|10|Print Friendly & PDF| [Link](https://addons.mozilla.org/en-US/firefox/addon/print-friendly-pdf/)|Firefox/Chrome|Create print friendly pdf of webpages.|
 
 
 ## Credits
