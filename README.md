@@ -10,9 +10,9 @@
 
 ### *Bookmark in your browser ! Clone the Repository for your project use.*
 
-|Sr No.| Title | Repository | Available for |
+|Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
-|1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|<a img src="https://findicons.com/icon/download/72653/firefox/128/ico" alt="firefox"></a>|
+|1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox / Chrome|
 |2|30 Seconds Of Code|  https://github.com/30-seconds/30-seconds-of-code |
 |3|Awesome Cheatsheets|  https://github.com/LeCoupa/awesome-cheatsheets |
 |4|CSS Protips|  https://github.com/AllThingsSmitty/css-protips |
