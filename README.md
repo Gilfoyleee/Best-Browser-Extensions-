@@ -14,6 +14,8 @@
 
 ### *Bookmark in your browser !*
 
+<br>
+
 #### 1) EXTENSIONS FOR DAILY USE
 <br>
 
@@ -30,6 +32,7 @@
 |9|OneTab | [Link](https://addons.mozilla.org/en-US/firefox/addon/onetab/)|Firefox/Chrome|Convert Tabs to list and save memory|
 |10|Print Friendly & PDF| [Link](https://addons.mozilla.org/en-US/firefox/addon/print-friendly-pdf/)|Firefox/Chrome|Create print friendly pdf of webpages.|
 
+<br>
 
 #### 2) EXTENSIONS FOR AD-BLOCKING / TRACKER BLOCKERS / MINING BLOCKERS
 <br>
@@ -47,6 +50,7 @@
 |9|Leechblock-NG| [Link](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/)|Firefox/Chrome|
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 
+<br>
 
 #### 3) EXTENSIONS FOR DEVELOPERS
 <br>
@@ -62,7 +66,9 @@
 |7|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |8|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 |9|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
-|10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|  
+|10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
+
+<br>
 
 
 #### 4) EXTENSIONS FOR SYSADMINS/ PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
@@ -89,6 +95,7 @@
 |17|Nimbus-screenshot|[Link1](https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/)/[Link2](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)| Firefox/Chrome| Take in-depth snapshot of a website.
 |18|Json data viwer|[Link](https://addons.mozilla.org/en-US/firefox/addon/jsonview/)|Firefox/Chrome|View data in json format.|
 
+<br>
 
 
 
