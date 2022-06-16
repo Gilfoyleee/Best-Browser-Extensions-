@@ -8,9 +8,9 @@
   </a>
 </h1>
 
-### *Bookmark in your browser ! Clone the Repository for your project use.*
+### *Bookmark in your browser !*
 
-#### EXTENSIONS FOR AD-BLOCKING / TRACKER BLOCKERS / MINING BLOCKERS
+#### 1) EXTENSIONS FOR AD-BLOCKING / TRACKER BLOCKERS / MINING BLOCKERS
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
 |1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
@@ -25,7 +25,7 @@
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
 
 <!--
-#### EXTENSIONS FOR DEVELOPERS
+#### 2) EXTENSIONS FOR DEVELOPERS
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
 |1|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|
@@ -40,7 +40,7 @@
 |10|Ublock Origin | [Link](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|Firefox/Chrome|  -->
 
 
-#### EXTENSIONS FOR PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
+#### 3) EXTENSIONS FOR PENTESTERS / BOUNTY HUNTERS / HACKERS / SECURITY ANALYSTS
 |Sr No.| Title | addons URL | Available for |
 |------| ----------------- | -------------|------|
 |1|Netcraft| [Link](https://addons.mozilla.org/en-US/firefox/addon/netcraft-toolbar/)|Firefox/Chrome|
@@ -56,7 +56,7 @@
 |11| ProxySwitchy Omega| [Link1](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) / [Link2](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)|Firefox/ Chrome|
 
 
-#### EXTENSIONS FOR Daily Use
+#### 4) EXTENSIONS FOR Daily Use
 |Sr No.| Title | addons URL | Available for |Use
 |------| ----------------- | -------------|------|------|
 |1|Honey| [Link](https://addons.mozilla.org/en-US/firefox/addon/honey/)|Firefox/Chrome|Find Coupon Codes |
